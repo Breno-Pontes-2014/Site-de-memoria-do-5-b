@@ -19,13 +19,18 @@ footer{
     text-align: center;
     background-color: black;
     color: white;
-    padding: 5px;
-    margin: 5px;
+    padding: 10px;
+    margin: 10px;
     border-radius: 5px;
 }
 footer > a{
     text-decoration: none;
     transition: 1s;
-    background-color: white;
-    color: black;
+    border-radius: 5px;
 }
+footer > a:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+
