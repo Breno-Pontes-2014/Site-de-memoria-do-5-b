@@ -16,3 +16,7 @@ p{
 table{
     font-family: Roboto, Arial, sans-serif;
 }
+table > td{
+    padding: 5px;
+    margin: 5px;
+}
