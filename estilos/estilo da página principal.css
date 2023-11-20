@@ -9,6 +9,8 @@ img{
     width: 600px;
 }
 p{
+    text-shadow: 2px;
+    text-decoration: bolder;
     text-align: left;
 }
 table{
