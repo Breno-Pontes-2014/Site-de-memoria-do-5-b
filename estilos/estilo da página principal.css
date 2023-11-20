@@ -8,7 +8,7 @@ img{
     height: 580px;
     width: 600px;
 }
-p{
+main > p{
     text-align: justify;
 
 }
