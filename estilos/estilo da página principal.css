@@ -16,6 +16,7 @@ table{
     font-family: Roboto, Arial, sans-serif;
 }
 footer{
+    text-align: center;
     background-color: black;
     color: white;
     padding: 5px;
