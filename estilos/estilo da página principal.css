@@ -15,3 +15,16 @@ p{
 table{
     font-family: Roboto, Arial, sans-serif;
 }
+footer{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+}
+footer > a{
+    text-decoration: none;
+    transition: 1s;
+    background-color: white;
+    color: black;
+}
