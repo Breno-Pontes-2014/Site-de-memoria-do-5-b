@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@charset "UTF-8";
 body{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
@@ -11,9 +11,6 @@ img{
 main > p{
     text-align: justify;
 
-}
-table{
-    font-family: Roboto, Arial, sans-serif;
 }
 footer{
     text-align: center;
@@ -36,5 +33,4 @@ a:hover{
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
 }
-
 
