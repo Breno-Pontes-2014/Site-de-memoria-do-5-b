@@ -23,12 +23,12 @@ footer{
     margin: 10px;
     border-radius: 5px;
 }
-footer > a{
+a{
     text-decoration: none;
     transition: 1s;
     border-radius: 5px;
 }
-footer > a:hover{
+a:hover{
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
 }
