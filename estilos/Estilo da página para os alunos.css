@@ -20,9 +20,10 @@ footer{
     margin: 10px;
     border-radius: 5px;
 }
-table > td{
+table{
     font-family: "Roboto",Arial, Helvetica, sans-serif;
-    padding:5px
+    padding: 5px;
+    margin: 5px;
 }
 a{
     padding: 5px;
